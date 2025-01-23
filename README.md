@@ -60,7 +60,7 @@ Hi there! 👋 I'm Nandini Singh, a tech enthusiast, problem solver, and develop
 
 ---
 
-## 🌟 *Showcase Projects*  
+<!-- ## 🌟 *Showcase Projects*  
 
 ### 📅 *Internal Examination Scheduling System*  
 - *Tech Stack*: PHP, MySQL  
@@ -75,7 +75,7 @@ Hi there! 👋 I'm Nandini Singh, a tech enthusiast, problem solver, and develop
 - *Description*: A productivity web app to manage tasks efficiently and boost organization.  
 
 📌 *Check out all my projects on my [Repositories](#).*  
-
+-->
 ---
 
 ## 📈 *GitHub Stats*  
