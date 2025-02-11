@@ -27,7 +27,7 @@ Hi there! 👋 I'm Nandini Singh, a tech enthusiast, problem solver, and develop
   - Pursuing *MCA* to deepen my technical expertise  
 - 💼 *Career Goals*:  
   - Striving to grow alongside a forward-thinking company  
-  - Actively applying for roles as a *React Native Developer*  
+ <!-- - Actively applying for roles as a *React Native Developer* -->  
 - 💡 *Passions*:  
   - Exploring new technologies and building efficient solutions  
   - Sharing my journey, projects, and learnings with the GitHub community  
